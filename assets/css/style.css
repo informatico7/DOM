@@ -33,7 +33,7 @@ main{
     flex-direction: column;
 }
 #manipulação{
-    background-color: rgb(250, 250, 250);
+    background-color: rgb(255, 255, 255);
     border-radius: 10px;
     width: 600px;
     padding: 20px;
@@ -41,7 +41,7 @@ main{
 
 }
 .caixa{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(245, 241, 241);
     border-radius: 10px;
     width: 600px;
     height: 160px;
